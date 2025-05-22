@@ -3,4 +3,4 @@ description:
 globs: 
 alwaysApply: true
 ---
-This is a next js app that uses shadcn
+This is a next js app that uses shadcn.  I use npm
